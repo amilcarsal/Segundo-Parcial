@@ -15,7 +15,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone (https://github.com/amilcarsal/Segundo-Parcial)
 
 ##Uso
 La aplicación hará una solicitud a la API para obtener la lista de cursos al cargar.
