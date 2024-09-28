@@ -1,5 +1,5 @@
 # Segundo-Parcial
- 
+##Amilcar Salazar 5990-19-16976
 Este proyecto es una aplicación web construida con **React** y **Vite** que consume un API para mostrar una lista de cursos. Cada curso incluye su nombre, créditos y una descripción. La aplicación también tiene funcionalidades para limpiar y guardar información.
 
 ## Tecnologías Utilizadas
